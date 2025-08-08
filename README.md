@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 About Me
 - Always trying to learn new things  
 - Trying to dive deep into Artificial Intelligence, Machine Learning, and Algorithms  
