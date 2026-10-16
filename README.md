@@ -1,6 +1,5 @@
 ## 👋 About Me
-- Always trying to learn new things  
-- Trying to dive deeply into Artificial Intelligence, Machine Learning, and Algorithms  
-- Currently working as a Freelance Developer, specializing in website creation  
-
+- "I'm just a passing-through Developer. Remember that!
+- Currently working on AI Agent Field, Custom and integrate in Enterprise 
+- Contact for working: qtruong.hs@gmail.com
 
